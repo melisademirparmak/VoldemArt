@@ -39,9 +39,8 @@ const Home = () => {
     }
   };
   return (
-    <div className="home">
+    <div className="home flex">
       <button onClick={() => getEth()}>Get Wallet </button>
-      {/* <p>{setErrMsg}</p> */}
     </div>
   );
 };

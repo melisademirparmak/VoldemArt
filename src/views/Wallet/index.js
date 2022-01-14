@@ -5,17 +5,11 @@ function Wallet() {
   const account = localStorage.getItem('account');
   const balance = localStorage.getItem('balance');
   return (
-    <>
+    <Card>
       <h1 className="text-center">Wallet</h1>
-      <Card>
-        <h4>
-          Account: <span>{account}</span>
-        </h4>
-        <h4>
-          Balance:<span> {balance} ETH </span>
-        </h4>
-      </Card>
-    </>
+      <h5>Account: {account}</h5>
+      <h5>Balance: {balance} ETH</h5>
+    </Card>
   );
 }
 
