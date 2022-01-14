@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+## voldemArt
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## hello! 👋  
 
-## Available Scripts
+<img  alt="button" width="200" height="100" src="https://cdn.discordapp.com/attachments/801909083220475914/931461595698184222/1.PNG">
 
-In the project directory, you can run:
+<p align="left">by clicking the button, we connect the metamask and get the account and wallet amount.</p>
+<hr/>
 
-### `npm start`
+<img alt="button" width="250" height="100" src="https://cdn.discordapp.com/attachments/801909083220475914/931461578522509362/2.PNG">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="left">if our wallet balance is zero, it will direct us to the Wallet Address and print our account and balance amount.
+<hr/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img alt="button" width="250" height="100" src="https://cdn.discordapp.com/attachments/801909083220475914/931461552844992512/3.PNG">
 
-### `npm test`
+<p align="left">if our balance is greater than zero, it redirects us to the profile page and asks us to save our name and account information.
+<hr/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img alt="button" width="150" height="200" src="https://cdn.discordapp.com/attachments/801909083220475914/931461536508162058/4.PNG">
 
-### `npm run build`
+<p align="left">after this process is completed, we receive a message that the saving as a message was successful.
+<hr/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### clone
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+git clone https://github.com/melisademirparmak/voldemArt.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### installation
 
-### `npm run eject`
+```
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### starting project
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+npm start
+```  
+### links
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Github](https://github.com/melisademirparmak/voldemArt)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Built with 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://reactjs.org/)
+- [MetaMask](https://docs.metamask.io/guide/)
+- [web3.js](https://web3js.readthedocs.io/en/v1.5.2/)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Authors :writing_hand:
 
-### Analyzing the Bundle Size
+- [Melisa Demirparmak](https://github.com/melisademirparmak)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+###  License 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Licensed under the MIT license, see [LICENSE](https://github.com/melisademirparmak/voldemArt/blob/main/LICENSE) for details.
